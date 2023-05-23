@@ -5,14 +5,14 @@ version control, software testing, and project management.
 <b>Explore my latest projects here:</b><br>
 
 <li><a href="https://github.com/ZeddHp/RnM">
-  Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
+  Rick and Morty</a><p>Easily review all the locations, characters and episodes of Rick and Morty in a beautiful design.
 <li><a href="https://github.com/ZeddHp/TVNET-new">
-  News feed website</a><p>News,Users and Comments from Json Place Holder API. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
+  News feed website</a><p>News, Users and Comments from Json Place Holder API. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
 <li><a href="https://github.com/ZeddHp/GiphySearchEngine">GIF search application</a><p>
   Simple page to fetch GIFS of your choice from Giphy API library.
   Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</p></li>
 <hr>
- If you're looking for a dedicated programmer who can drive technological advancements and deliver exceptional results,
+ If you're looking for a dedicated programmer who can drive technological advancements and deliver exceptional results, 
   get in touch! I'd be happy to discuss potential collaborations, projects or job opportunities.<br>
   <hr>
   <b>📫Reach me</b><a href="https://www.linkedin.com/in/valtersjargans" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIN" height="40" style="max-width: 100%;">
