@@ -1,12 +1,13 @@
 👀 I'm a Software Developer based in Latvia.
 Focus on the principles and practices of software development, including agile methodologies,
-version control,software testing, and project management.
+version control, software testing, and project management.
 <hr>
 <b>Explore my latest projects here:</b><br>
 
 <li><a href="https://github.com/ZeddHp/RnM">
   Rick and Morty</a><p>Easily review all the locations,characters and episodes of Rick and Morty in a beautiful design.
-Expand All
+<li><a href="https://github.com/ZeddHp/TVNET-new">
+  News feed website</a><p>News,Users and Comments from Json Place Holder API. Implementation of MVC pattern, routing, cache system. Usage of Twig as template engine.
 <li><a href="https://github.com/ZeddHp/GiphySearchEngine">GIF search application</a><p>
   Simple page to fetch GIFS of your choice from Giphy API library.
   Implementation of MVC pattern, routing. Usage of Twig as template engine, CSS for styling.</p></li>
