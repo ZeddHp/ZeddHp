@@ -1,9 +1,9 @@
 <h1 align="left">Hey, I'm Valters!</h1>
 <h3 align="left">Developer, cyber security enthusiast, and CS student.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeddhp&theme=shadow_red&show_icons=true&locale=en&layout=compact" alt="zeddhp" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeddhp&theme=transparent&show_icons=true&locale=en&layout=compact" alt="zeddhp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeddhp&theme=shadow_red&show_icons=true&locale=en" alt="zeddhp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeddhp&theme=transparent&show_icons=true&locale=en" alt="zeddhp" /></p>
 
 
 
