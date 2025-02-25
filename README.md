@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Valters!</h1>
 <h3 align="left">Developer, cyber security enthusiast, and CS student.</h3>
 
-<table>
+<table border="0" style="border-collapse: collapse;">
   <tr>
     <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeddhp&theme=transparent&show_icons=true&locale=en&layout=compact" alt="zeddhp" /></td>
     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=zeddhp&theme=transparent&show_icons=true&locale=en" alt="zeddhp" /></td>
@@ -9,7 +9,7 @@
 </table>
 
 <h3 align="left">Programming Languages:</h3>
-<table><tr>
+<table border="0" style="border-collapse: collapse;"><tr>
   <!-- Each <td> is a cell for an icon -->
   <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
   <td><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a></td>
@@ -20,7 +20,7 @@
 </tr></table>
 
 <h3 align="left">Web Development:</h3>
-<table><tr>
+<table border="0" style="border-collapse: collapse;"><tr>
   <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a></td>
   <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
   <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
@@ -31,7 +31,7 @@
 </tr></table>
 
 <h3 align="left">Databases:</h3>
-<table><tr>
+<table border="0" style="border-collapse: collapse;"><tr>
   <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a></td>
   <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/></a></td>
   <td><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
@@ -41,7 +41,7 @@
 </tr></table>
 
 <h3 align="left">DevOps and Testing Tools:</h3>
-<table><tr>
+<table border="0" style="border-collapse: collapse;"><tr>
   <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a></td>
   <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
   <td><a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="40" height="40"/></a></td>
@@ -49,7 +49,7 @@
 </tr></table>
 
 <h3 align="left">Frameworks and Platforms:</h3>
-<table><tr>
+<table border="0" style="border-collapse: collapse;"><tr>
   <td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a></td>
   <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a></td>
   <td><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/></a></td>
