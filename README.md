@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Valters!</h1>
-<h3 align="center">Developer, cyber security enthusiast, and CS student.</h3>
+<h6 align="left">Developer, cyber security enthusiast, and CS student.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeddhp&label=Profile%20views&color=0e75b6&style=flat" alt="zeddhp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeddhp" alt="zeddhp" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
